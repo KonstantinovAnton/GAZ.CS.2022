@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9b71dd35-f130-403b-94b9-c4731f1fe729" name="Student@10266A-GEN-DEV 2022-06-29 05:34:40" runUser="10266A-GEN-DEV\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="947f455c-0ffd-4088-ab69-a8d0fd81f18c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10266A-GEN-DEV 2022-06-29 05_34_40">
+      <DeploymentItem filename="E:\Labfiles\Lab 6\Ex3\Starter\StressTest\bin\Debug\StressTest.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2022-06-29T05:34:40.2763672-07:00" queuing="2022-06-29T05:34:40.5322265-07:00" start="2022-06-29T05:34:40.5527343-07:00" finish="2022-06-29T05:34:40.6894531-07:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="5" executed="5" passed="3" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ToStringTest" storage="e:\labfiles\lab 6\ex3\starter\classes unit test project\bin\debug\unit tests for module 6.dll" id="31fb5f85-762e-6967-40f4-c52200bfb2ba">
+      <Execution id="44e5cc64-effd-4e8b-b104-59616e11d312" />
+      <TestMethod codeBase="E:/Labfiles/Lab 6/Ex3/Starter/Classes Unit Test Project/bin/Debug/Unit Tests for Module 6.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab6UnitTests.StressTestCaseTest, Unit Tests for Module 6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ToStringTest" />
+    </UnitTest>
+    <UnitTest name="StressTestCaseConstructorTest" storage="e:\labfiles\lab 6\ex3\starter\classes unit test project\bin\debug\unit tests for module 6.dll" id="1f359600-5dde-4b23-acc3-108cfa5c5af8">
+      <Execution id="0814ba5b-5060-41d4-91f4-233796e6b522" />
+      <TestMethod codeBase="E:/Labfiles/Lab 6/Ex3/Starter/Classes Unit Test Project/bin/Debug/Unit Tests for Module 6.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab6UnitTests.StressTestCaseTest, Unit Tests for Module 6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StressTestCaseConstructorTest" />
+    </UnitTest>
+    <UnitTest name="StressTestCaseConstructorTest1" storage="e:\labfiles\lab 6\ex3\starter\classes unit test project\bin\debug\unit tests for module 6.dll" id="6793f6b4-affe-54ca-81da-544f41857e8c">
+      <Execution id="6fc9bad4-b993-42cd-a257-85a02d87f51d" />
+      <TestMethod codeBase="E:/Labfiles/Lab 6/Ex3/Starter/Classes Unit Test Project/bin/Debug/Unit Tests for Module 6.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab6UnitTests.StressTestCaseTest, Unit Tests for Module 6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StressTestCaseConstructorTest1" />
+    </UnitTest>
+    <UnitTest name="GetStressTestResultTest" storage="e:\labfiles\lab 6\ex3\starter\classes unit test project\bin\debug\unit tests for module 6.dll" id="c11e7c1d-309d-7cbc-9c73-7685ecb0262b">
+      <Execution id="1c88b904-3136-4ca4-b9d5-c4b72b6ac41d" />
+      <TestMethod codeBase="E:/Labfiles/Lab 6/Ex3/Starter/Classes Unit Test Project/bin/Debug/Unit Tests for Module 6.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab6UnitTests.StressTestCaseTest, Unit Tests for Module 6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetStressTestResultTest" />
+    </UnitTest>
+    <UnitTest name="PerformStressTestTest" storage="e:\labfiles\lab 6\ex3\starter\classes unit test project\bin\debug\unit tests for module 6.dll" id="59439859-1717-0e5d-97d8-5e039d880f03">
+      <Execution id="cdb71165-9fee-46cb-af14-e3726f2c041f" />
+      <TestMethod codeBase="E:/Labfiles/Lab 6/Ex3/Starter/Classes Unit Test Project/bin/Debug/Unit Tests for Module 6.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab6UnitTests.StressTestCaseTest, Unit Tests for Module 6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PerformStressTestTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1f359600-5dde-4b23-acc3-108cfa5c5af8" executionId="0814ba5b-5060-41d4-91f4-233796e6b522" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31fb5f85-762e-6967-40f4-c52200bfb2ba" executionId="44e5cc64-effd-4e8b-b104-59616e11d312" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="59439859-1717-0e5d-97d8-5e039d880f03" executionId="cdb71165-9fee-46cb-af14-e3726f2c041f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6793f6b4-affe-54ca-81da-544f41857e8c" executionId="6fc9bad4-b993-42cd-a257-85a02d87f51d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c11e7c1d-309d-7cbc-9c73-7685ecb0262b" executionId="1c88b904-3136-4ca4-b9d5-c4b72b6ac41d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="0814ba5b-5060-41d4-91f4-233796e6b522" testId="1f359600-5dde-4b23-acc3-108cfa5c5af8" testName="StressTestCaseConstructorTest" computerName="10266A-GEN-DEV" duration="00:00:00.0088410" startTime="2022-06-29T05:34:40.5546875-07:00" endTime="2022-06-29T05:34:40.6601562-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0814ba5b-5060-41d4-91f4-233796e6b522">
+    </UnitTestResult>
+    <UnitTestResult executionId="44e5cc64-effd-4e8b-b104-59616e11d312" testId="31fb5f85-762e-6967-40f4-c52200bfb2ba" testName="ToStringTest" computerName="10266A-GEN-DEV" duration="00:00:00.0089855" startTime="2022-06-29T05:34:40.6611328-07:00" endTime="2022-06-29T05:34:40.6718750-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="44e5cc64-effd-4e8b-b104-59616e11d312">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;Material: StainlessSteel, CrossSection: IBeam, Length: 4000mm, Height: 20mm, Width: 15mm&gt;. Actual:&lt;Material: Aluminium, CrossSection: Box, Length: 50mm, Height: 100mm, Width: 40mm&gt;. </Message>
+          <StackTrace>   at Lab6UnitTests.StressTestCaseTest.ToStringTest() in E:\Labfiles\Lab 6\Ex3\Starter\Classes Unit Test Project\StressTestCaseTest.cs:line 140
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="cdb71165-9fee-46cb-af14-e3726f2c041f" testId="59439859-1717-0e5d-97d8-5e039d880f03" testName="PerformStressTestTest" computerName="10266A-GEN-DEV" duration="00:00:00.0003518" startTime="2022-06-29T05:34:40.6718750-07:00" endTime="2022-06-29T05:34:40.6738281-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cdb71165-9fee-46cb-af14-e3726f2c041f">
+    </UnitTestResult>
+    <UnitTestResult executionId="6fc9bad4-b993-42cd-a257-85a02d87f51d" testId="6793f6b4-affe-54ca-81da-544f41857e8c" testName="StressTestCaseConstructorTest1" computerName="10266A-GEN-DEV" duration="00:00:00.0009279" startTime="2022-06-29T05:34:40.6757812-07:00" endTime="2022-06-29T05:34:40.6787109-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6fc9bad4-b993-42cd-a257-85a02d87f51d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;StainlessSteel&gt;. Actual:&lt;Aluminium&gt;. </Message>
+          <StackTrace>   at Lab6UnitTests.StressTestCaseTest.StressTestCaseConstructorTest1() in E:\Labfiles\Lab 6\Ex3\Starter\Classes Unit Test Project\StressTestCaseTest.cs:line 93
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1c88b904-3136-4ca4-b9d5-c4b72b6ac41d" testId="c11e7c1d-309d-7cbc-9c73-7685ecb0262b" testName="GetStressTestResultTest" computerName="10266A-GEN-DEV" duration="00:00:00.0000912" startTime="2022-06-29T05:34:40.6787109-07:00" endTime="2022-06-29T05:34:40.6806640-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1c88b904-3136-4ca4-b9d5-c4b72b6ac41d">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,15 @@
+C:\Users\Konstantinov\Desktop\Lab\Lab 1\Ex 2\Starter\GAZ.CS.2022.lab1.ex2\bin\Debug\GAZ.CS.2022.lab1.ex2.exe.config
+C:\Users\Konstantinov\Desktop\Lab\Lab 1\Ex 2\Starter\GAZ.CS.2022.lab1.ex2\bin\Debug\GAZ.CS.2022.lab1.ex2.exe
+C:\Users\Konstantinov\Desktop\Lab\Lab 1\Ex 2\Starter\GAZ.CS.2022.lab1.ex2\bin\Debug\GAZ.CS.2022.lab1.ex2.pdb
+C:\Users\Konstantinov\Desktop\Lab\Lab 1\Ex 2\Starter\GAZ.CS.2022.lab1.ex2\obj\Debug\GAZ.CS.2022.lab1.ex2.csprojAssemblyReference.cache
+C:\Users\Konstantinov\Desktop\Lab\Lab 1\Ex 2\Starter\GAZ.CS.2022.lab1.ex2\obj\Debug\MainWindow.g.cs
+C:\Users\Konstantinov\Desktop\Lab\Lab 1\Ex 2\Starter\GAZ.CS.2022.lab1.ex2\obj\Debug\App.g.cs
+C:\Users\Konstantinov\Desktop\Lab\Lab 1\Ex 2\Starter\GAZ.CS.2022.lab1.ex2\obj\Debug\GAZ.CS.2022.lab1.ex2_MarkupCompile.cache
+C:\Users\Konstantinov\Desktop\Lab\Lab 1\Ex 2\Starter\GAZ.CS.2022.lab1.ex2\obj\Debug\GAZ.CS.2022.lab1.ex2_MarkupCompile.lref
+C:\Users\Konstantinov\Desktop\Lab\Lab 1\Ex 2\Starter\GAZ.CS.2022.lab1.ex2\obj\Debug\MainWindow.baml
+C:\Users\Konstantinov\Desktop\Lab\Lab 1\Ex 2\Starter\GAZ.CS.2022.lab1.ex2\obj\Debug\GAZ.CS.2022.lab1.ex2.g.resources
+C:\Users\Konstantinov\Desktop\Lab\Lab 1\Ex 2\Starter\GAZ.CS.2022.lab1.ex2\obj\Debug\GAZ.CS._2022.lab1.ex2.Properties.Resources.resources
+C:\Users\Konstantinov\Desktop\Lab\Lab 1\Ex 2\Starter\GAZ.CS.2022.lab1.ex2\obj\Debug\GAZ.CS.2022.lab1.ex2.csproj.GenerateResource.cache
+C:\Users\Konstantinov\Desktop\Lab\Lab 1\Ex 2\Starter\GAZ.CS.2022.lab1.ex2\obj\Debug\GAZ.CS.2022.lab1.ex2.csproj.CoreCompileInputs.cache
+C:\Users\Konstantinov\Desktop\Lab\Lab 1\Ex 2\Starter\GAZ.CS.2022.lab1.ex2\obj\Debug\GAZ.CS.2022.lab1.ex2.exe
+C:\Users\Konstantinov\Desktop\Lab\Lab 1\Ex 2\Starter\GAZ.CS.2022.lab1.ex2\obj\Debug\GAZ.CS.2022.lab1.ex2.pdb

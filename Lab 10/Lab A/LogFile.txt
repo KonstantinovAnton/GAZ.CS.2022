@@ -1,0 +1,8 @@
+Log file status checked - Created
+Collecting Started
+Measurement Taken: 1231
+Measurement Taken: 761
+Measurement Taken: 190
+Measurement Taken: 986
+Log File Changed
+New Log File: E:\Labfiles\Lab 10\Lab A\LogFile2.txt
